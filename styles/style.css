@@ -69,7 +69,7 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0 10rem;
+    margin: 0 10rem;    
 }
 
 .secundario__imagem {
@@ -84,4 +84,9 @@ body {
 
 .secundario__texto {
     color: var(--branco-secundario);
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: .6rem;
 }
